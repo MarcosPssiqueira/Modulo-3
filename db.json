@@ -1,0 +1,88 @@
+{
+    "sessão Biscoito": [
+      {
+        "id": 1,
+        "nome": "Biscoito de maizena",
+        "descricao": "500g de amido de milho,200g de manteiga sem sal (ou margarina sem sal),1 lata de leite condensado (395g)",
+        "preco": 2.0,
+        "categoria_id": 1
+      },
+      {
+        "nome": "Biscoito Piraquê de Chocolate",
+        "descricao": "Farinha de trigo enriquecida com ferro e ácido fólico, açúcar, gordura vegetal, cacau em pó, soro de leite em pó, maltodextrina, açúcar invertido, extrato de malte, amido de milho*, sal, emulsificantes: lecitina de soja e estearoil lactilato de cálcio, fermentos químicos: bicarbonato de sódio e fosfato monocálcico, aromatizantes e antioxidante ácido cítrico.",
+        "preco": 3.99,
+        "categoria_id": 1,
+        "id": 2
+      }
+    ]
+} 
+
+{
+    "Sessão açougue": [
+      {
+        "id": 3,
+        "nome": "Alcatra moida",
+        "descricao": "Valor calórico 157,47 kcal
+        Carboidratos 1,32 g
+        Proteínas 20,79 g
+        Gorduras totais 7,67 g
+        Gorduras saturadas 2,76 g
+        Colesterol 48,03 mg
+        Fibras 0 g
+        Cálcio 11,14 mg
+        Ferro 1,73 mg
+        Sódio 61,87 mg",
+        "preco": 35.00,
+        "categoria_id": 3
+      },
+      {
+        "nome": "Pernil",
+        "descricao": "O pernil é a parte mais delgada da perna dos animais, também a parte mais fina da perna de alguns animais. O Pernil é considerado no Brasil a coxa de quadrúpede comestível",
+        "preco": 10.0,                                                                           
+        "categoria_id": 3,
+        "id": 4,
+      }
+    ]
+} 
+
+{
+    "Sessão Hortifruti": [
+      {
+        "id": 4,
+        "nome": "Alface",
+        "descricao": "Muda de alface Crespa. Tenha sua horta orgânica em casa, alface crespa de excelente qualidade, livre de agrotóxicos.",
+        "preco": 0.99,
+        "categoria_id": 4
+      },
+      {
+        "nome": "Tomate italiano",
+        "descricao": "Aprox. 400g/ud",
+        "preco": 8.5,
+        "categoria_id": 4,
+        "id": 5
+      }
+    ]
+} 
+
+{
+    "Sessão de Bebidas": [
+      {
+        "id": 5,
+        "nome": "Whisky Buchanan&#39;s 12 Anos ",
+        "descricao": "O Whisky Buchanan's Deluxe É O Reflexo Da Criação De James Buchanan's Em 1884, Um Blend Tão Leve, Suave E Refinado Que Veio A Consagrá-lo Como Fornecedor Oficial De Whisky Do Parlamento Britânico. Agora Também Em Nova Litragem, 750ml, Contendo Mesmo Líquido E Layout Da Garrafa Já Consagrada De 750ml",
+        "preco": 117.23,
+        "categoria_id": 5
+      },
+      {
+        "nome": "Kit Premium Caixa Whisky Jack Daniels 375ml + Copo + Dosador",
+        "descricao": "Kit Whisky Jack Daniel's 375ml com caixa em mdf preta + copo de vidro + dosador O Kit contém: - 01 Garrafa de Whisky Jack Daniel's Old n.7 (375ml) - Original, lacrada, com nf e garantia - 01 Caixa de mdf na cor preta (medidas: 22x18x9cm) - 01 Copo de vidro para Whisky Jack Daniel's 315 ml com logo impresso (não é adesivo) - 01 Dosador em inox (40ml) -",
+        "preco": 197.30,
+        "categoria_id": 5,
+        "id": 2
+      }
+    ]
+} 
+
+
+
+
